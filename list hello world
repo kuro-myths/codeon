@@ -1,0 +1,42 @@
+| No | Nama File          | Bahasa Pemrograman                           |
+| -- | ------------------ | -------------------------------------------- |
+| 1  | hello-world.ada    | Ada                                          |
+| 2  | hello-world.asm    | Assembly                                     |
+| 3  | hello-world.bash   | Bash                                         |
+| 4  | hello-world.bf     | Brainfuck                                    |
+| 5  | hello-world.c      | C                                            |
+| 6  | hello-world.cbl    | COBOL                                        |
+| 7  | hello-world.coffee | CoffeeScript                                 |
+| 8  | hello-world.cpp    | C++                                          |
+| 9  | hello-world.cs     | C#                                           |
+| 10 | hello-world.d      | D                                            |
+| 11 | hello-world.dart   | Dart                                         |
+| 12 | hello-world.erl    | Erlang                                       |
+| 13 | hello-world.ex     | Elixir                                       |
+| 14 | hello-world.f      | Fortran                                      |
+| 15 | hello-world.fs     | F#                                           |
+| 16 | hello-world.go     | Go                                           |
+| 17 | hello-world.gvy    | Groovy                                       |
+| 18 | hello-world.hs     | Haskell                                      |
+| 19 | hello-world.html   | HTML                                         |
+| 20 | hello-world.java   | Java                                         |
+| 21 | hello-world.jl     | Julia                                        |
+| 22 | hello-world.js     | JavaScript                                   |
+| 23 | hello-world.kt     | Kotlin                                       |
+| 24 | hello-world.lisp   | Lisp                                         |
+| 25 | hello-world.m      | Objective-C / MATLAB (*tergantung isi file*) |
+| 26 | hello-world.ml     | OCaml                                        |
+| 27 | hello-world.pl     | Perl                                         |
+| 28 | hello-world.pp     | Pascal / FreePascal                          |
+| 29 | hello-world.py     | Python                                       |
+| 30 | hello-world.r      | R                                            |
+| 31 | hello-world.rb     | Ruby                                         |
+| 32 | hello-world.rs     | Rust                                         |
+| 33 | hello-world.sc     | Scala                                        |
+| 34 | hello-world.sh     | Shell Script (sh)                            |
+| 35 | hello-world.swift  | Swift                                        |
+| 36 | hello-world.ts     | TypeScript                                   |
+| 37 | hello-world.v      | Verilog / V Language (*tergantung isi file*) |
+| 38 | hello-world.vb     | Visual Basic                                 |
+| 39 | hello-world.zig    | Zig                                          |
+| 40 | hello-world.zsh    | Z shell Script (Zsh)                         |
